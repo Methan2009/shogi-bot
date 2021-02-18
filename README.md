@@ -1,9 +1,5 @@
 # Lishogi Bot
 
-[![Build Status](https://github.com/TheYoBots/Lishogi-Bot/workflows/Python%20application/badge.svg)](https://github.com/TheYoBots/Lishogi-Bot/actions)
-[![Lishogi Bot](https://img.shields.io/badge/YoBot_v2-%40Lishogi_Bot-blue.svg)](https://lishogi.org/@/YoBot_v2)
-[![Play Bot](https://img.shields.io/badge/Play_Bot-%40Lishogi-blue.svg)](https://lishogi.org/?user=YoBot_v2#friend)
-[![Lishogi Team](https://img.shields.io/badge/Lishogi_Team-%40Team-blue.svg)](https://lishogi.org/team/yobot_v2-shogi)
 
 A bridge between [Lichess API](https://lichess.org/api#tag/Chess-Bot) and Lishogi USI Bots. In case you don't know English, view the [Japanese Translation here (日本語翻訳)](https://github.com/TheYoBots/Lishogi-Bot/wiki/Japanese-Translation).
 
@@ -62,5 +58,5 @@ pip install -r requirements.txt
 - run `python lishogi-bot.py -u`
 - for more verbrose logs run `python lishogi-bot.py -v`
 
-# Acknowledgements
-Thanks to the Lichess Team for creating a [repository](https://github.com/ShailChoksi/lichess-bot) that could be easily accessed and modified to help converting it to a format that supports Lishogi and for running an [API](https://lichess.org/api) which is used by lishogi. Thanks to the [Tasuku SUENAGA a.k.a. gunyarakun](https://github.com/gunyarakun) and his [python-shogi](https://github.com/gunyarakun) code which allows engine communication seamlessly. Thanks to [allthatglittersisgold](https://github.com/allthatglittersisgold) for creating a Windows executable for `lishogi-bot.py` and Thanks to  [WandererXII](https://github.com/WandererXII) for all his effort and help.
+
+
